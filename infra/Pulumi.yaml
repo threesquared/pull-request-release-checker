@@ -1,0 +1,3 @@
+name: pr-release
+runtime: nodejs
+description: Check if a PR has made it into a tagged release
