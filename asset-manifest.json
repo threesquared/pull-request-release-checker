@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pull-request-release-checker/static/css/main.6abd8a16.css",
+    "main.js": "/pull-request-release-checker/static/js/main.e3136f22.js",
+    "index.html": "/pull-request-release-checker/index.html",
+    "main.6abd8a16.css.map": "/pull-request-release-checker/static/css/main.6abd8a16.css.map",
+    "main.e3136f22.js.map": "/pull-request-release-checker/static/js/main.e3136f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abd8a16.css",
+    "static/js/main.e3136f22.js"
+  ]
+}
